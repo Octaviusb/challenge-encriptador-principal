@@ -28,6 +28,10 @@ h1 {
     border-radius: 5px;
 }
 
+textarea {
+    resize: none;
+  }
+
 #operation {
     margin-top: 10px;
     margin-bottom: 20px;
